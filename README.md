@@ -3,8 +3,8 @@
   <h1>Hi there, I`m Dmitri</h1>
   <h3>Back-end Developer from NN</h3>
 </div>
-<div>
-  <a href="https://t.me/dmshed" align="center">
+<div align="center">
+  <a href="https://t.me/dmshed">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
