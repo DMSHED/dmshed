@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <h1>Hi there, I`m Dmitri</h1>
+  <h3>Back-end Developer from NN</h3>
+</div>
+<div>
+  <a href="https://t.me/dmshed">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
 <!--
 **DMSHED/dmshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
